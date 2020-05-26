@@ -55,4 +55,3 @@ The tasks in this project are as follows:
   - Data wrangling efforts
   - Data analyses and visualizations
   
-## Conclusions
